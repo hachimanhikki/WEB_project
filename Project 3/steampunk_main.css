@@ -1,0 +1,68 @@
+#header {
+	padding-top: 20px;
+	font-family: "geosteam";
+	background-color: rgb(40, 41, 35);
+	border-bottom: solid;
+	color: rgb(250, 183, 75);
+	text-shadow: 0 0 3px red, 0 0 5px orange;
+	border-color: rgb(250, 183, 75);
+	opacity: 0.7;
+	height: 100px;
+	font-size: 80px;
+}
+
+#page {
+	background-color: rgb(40, 41, 35); 
+	opacity: 0.8;
+	box-shadow: 0 0 3px yellow, 0 0 5px red;
+
+}
+
+body {
+	padding: 0;
+	margin: 0 auto;
+	background-image: url(Background/steampunk_02.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+h1 {
+	width: 700px;
+	color: rgb(250, 183, 75);
+	font-family: "Nixie One", sans-serif;
+	text-shadow: 0 0 3px red, 0 0 5px orange;
+	padding-top: 40px;
+	border-bottom: solid;
+	border-bottom-width: 1px;
+	border-color: rgb(250, 183, 75);
+}
+
+p {
+	color: rgb(250, 183, 75);
+	font-family: "Nixie One", sans-serif;
+	font-size: 20px;
+	text-shadow: 0 0 3px red, 0 0 5px orange;
+
+}
+
+a {
+
+	padding: 10px;
+	text-decoration: none;
+	color: rgb(250, 183, 75);
+	font-family: "Fabulous Steampunk", sans-serif;
+	font-size: 30px;
+	text-shadow: 0 0 3px red, 0 0 5px orange;
+}
+
+a:link {
+	text-decoration: none;
+	color: rgb(250, 183, 75);
+	font-family: "Fabulous Steampunk", sans-serif;
+	font-size: 30px;
+	text-shadow: 0 0 3px red, 0 0 5px orange;
+}
+
+a:hover {
+	text-shadow: 0 0 5px white, 0 0 7px white;
+}
