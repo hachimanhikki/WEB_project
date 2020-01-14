@@ -1,0 +1,14 @@
+a {
+	text-decoration: none;
+}
+a:hover {
+  color: yellow;
+  text-shadow: 3px 2px 3px;
+}
+a:visited {
+	color: black;
+}
+table {
+	border-collapse: collapse;
+	text-align: center;
+}
